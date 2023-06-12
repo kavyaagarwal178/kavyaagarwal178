@@ -26,8 +26,5 @@
  <img src="https://www.svgrepo.com/show/354152/oracle.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavyaagarwal178&show_icons=true&locale=en&layout=compact" alt="kavyaagarwal178" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavyaagarwal178&show_icons=true&locale=en" alt="kavyaagarwal178" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavyaagarwal178&" alt="kavyaagarwal178" /></p>
