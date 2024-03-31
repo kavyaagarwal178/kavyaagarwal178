@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Kavyaaagarwal178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10X23ZzkpEMyWHif5prsg3j4b9mggVX7p/view?usp=sharing](https://drive.google.com/file/d/10X23ZzkpEMyWHif5prsg3j4b9mggVX7p/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/15ZU-a7uzu9CjRiwLqG2OJ40esWDLJS8g?usp=drive_link][(https://drive.google.com/drive/folders/15ZU-a7uzu9CjRiwLqG2OJ40esWDLJS8g?usp=drive_link)
 
 
 <p align="left">
